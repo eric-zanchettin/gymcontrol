@@ -37,4 +37,4 @@ choose their instructors based on their interests.</p>
 </p>
 <h2>What is <b>Rocketseat Launchbase Bootcamp?</b></h2>
 <p>Rocketseat Launchbase is a Bootcamp with the purpose of leveraging the career of those who participate getting straight to the point of programming: CODE!
-It is a incredible way of getting the first steps on programming and also, a very good way to expand your knowledge and getting to the next level of programming. If you want to know more, feel free to check out <a href="https://github.com/Rocketseat">their GitHub</a> as well.</p>
+It is a incredible way of getting the first steps on programming and also, a very good way to expand your knowledge and get to the next level of programming. If you want to know more, feel free to check out <a href="https://github.com/Rocketseat">their GitHub</a> as well.</p>
