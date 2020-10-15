@@ -32,4 +32,9 @@ choose their instructors based on their interests.</p>
   <code width="900px">npm start</code>
 </div>
 <p>To start the server and access http://localhost:3000 to start using the website.</p>
-<h2>What is <b>Rocketseat Launchbase Bootcamp</b></h2>
+<p align="center">
+  <img width="64" height="auto" src="https://i.imgur.com/1BZZqy0.png" />
+</p>
+<h2>What is <b>Rocketseat Launchbase Bootcamp?</b></h2>
+<p>Rocketseat Launchbase is a Bootcamp with the purpose of leveraging the career of those who participate getting straight to the point of programming: CODE!
+It is a incredible way of getting the first steps on programming and also, a very good way to expand your knowledge and getting to the next level of programming. If you want to know more, feel free to check out <a href="https://github.com/Rocketseat">their GitHub</a> as well.</p>
