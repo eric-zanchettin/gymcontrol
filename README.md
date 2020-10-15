@@ -24,6 +24,14 @@ choose their instructors based on their interests.</p>
 </ul>
 <h2>🚀 Setting up</h2>
 <p>To start using the application, download it and store it in an node.js enviroment, then, in an terminal with the opened project type:</p>
+<span>If you preffer to use git to clone my repository, use the following steps in your node.js enviroment:</span>
+<div align="center">
+  <code width="900px">
+    git init
+    git clone https://github.com/eric-zanchettin/gymcontrol.git
+  </code>
+</div>
+<span>If you choose or not to use git, these are the same following steps:</span>
 <div align="center">
   <code width="900px">npm install</code>
 </div>
