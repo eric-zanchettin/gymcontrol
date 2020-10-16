@@ -37,7 +37,38 @@ choose their instructors based on their interests.</p>
 <div align="center">
   <code width="900px">npm install</code>
 </div>
-<p>This will install all dependencies used on this project, after that, type:</p>
+<p>This will install all dependencies used on this project, after that, you need to create the database with these specifications:</p>
+<code>
+            
+            CREATE DATABASE gymmanager
+            
+            CREATE TABLE instructors (
+            id SERIAL PRIMARY KEY,
+            avatar_url TEXT,
+            name TEXT,
+           	birth TIMESTAMP,
+            gender TEXT,
+            services TEXT,
+            created_at TIMESTAMP
+            )
+      
+            CREATE TABLE members (
+            id SERIAL PRIMARY KEY,
+            name TEXT,
+            avatar_url TEXT,
+            email TEXT,
+            gender TEXT,
+            birth	TIMESTAMP,
+            blood	TEXT,
+            weight INT,
+            height INT,
+            instructor_id	INT,
+              CONSTRAINT fk_instructor_id
+              	FOREIGN KEY(instructor_id)
+              		REFERENCES instructors(id)
+            )
+</code>
+<p>Now you just have to run the server with:</p>
 <div align="center">
   <code width="900px">npm start</code>
 </div>
