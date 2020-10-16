@@ -68,6 +68,10 @@ choose their instructors based on their interests.</p>
               		REFERENCES instructors(id)
             )
 </code>
+<p><b>IMPORTANT:</b> Remember to change the db.js inside the config file informing your credentials to the PostegreSQL Pool!!!</p>
+<p align="center">
+  <img width="auto" height="auto" src="https://i.imgur.com/F6khkvm.png" />
+</p>
 <p>Now you just have to run the server with:</p>
 <div align="center">
   <code width="900px">npm start</code>
